@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br
-">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Caças de Ultima Geração</title>
-</head>
-<body>
 
-    
 Gripen
 
 Saab JAS 39 Gripen, também designado como F-39 Gripen, 
@@ -100,7 +89,3 @@ Autonomia de voo: 3.000 km
 Envergadura: 14 m
 Desenvolvimento: X-44 MANTA - FB-22
 Série: F/A-18 - F-20 - F-21 - F/A-22 - YF-23 - F-35 -
-
-    
-</body>
-</html>

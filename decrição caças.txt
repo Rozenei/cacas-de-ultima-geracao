@@ -61,13 +61,60 @@ Fabricante: Dassault Aviation
 Tipos de motor: SNECMA M88, Turbofan
 
 
+Shennyang j-31
 
-Suhhoi Su 57-Felon
+Shenyang J-31 (também conhecido como "Falcão-gerifalte"  ou "Falcon Hawk" por alguns entusiastas militares), é um caça de quinta geração bimotor, de tamanho médio e atualmente em desenvolvimento pela Shenyang Aircraft Corporation. da China. O caça também foi referido como o "F-60" ou "J-21 coruja-das-neves" em alguns relatórios.
 
-O Sukhoi Su-57 é a designação do protótipo T-50 de um caça russo furtivo,
- monoposto de quinta geração, resultado do PAK FA, para a Força Aérea Russa 
-desenvolvido pela Sukhoi. 
+País de origem	China
+Fabricante	Shenyang Aircraft Corporation
+Desenvolvedor	Shenyang Aircraft Corporation
+Designer	Shenyang Aircraft Corporation
+Primeiro voo	31 de outubro de 2012
 
+
+
+Chengdu j-20
+
+O Chengdu J-20 ( chinês :歼-20 ; pinyin : Jiān-Èrlíng ), também conhecido como Poderoso Dragão ( chinês :威龙; pinyin : Wēilóng ), é um twinjet , todo- clima , furtividade , caça desenvolvido pela Corporação Aeroespacial de Chengdu da China para a Força Aérea do Exército de Libertação Popular (PLAAF). O J-20 é projetado como umcaça de superioridade aérea com capacidade de ataque de precisão; descende do programa J-XX da década de 1990. O J-20 fez seu voo inaugural em 11 de janeiro de 2011, é o terceiro caça furtivo de quinta geração operacional do mundo, depois do F-22 e F-35 
+
+Função	Caça furtivo de superioridade aérea
+origem nacional	China
+Fabricante	Corporação Aeroespacial de Chengdu
+Primeiro voo	11 de janeiro de 2011; 11 anos atrás [1] [2]
+Introdução	10 de março de 2017 [3]
+Status	Em serviço [4]
+Usuário principal	Força Aérea do Exército de Libertação Popular
+Produzido	2009–presente [5]
+Número construído	50+ em serviço (a partir de 2021) [6] [7]
+Desenvolvido a partir de	J-XX
+
+
+
+F-35 lifth 2
+
+Lockheed Martin F-35 Lightning II ou F-35 Joint Strike Fighter é um caça multifunção supersônico furtivo (stealth) de quinta geração, que fora desenvolvido para satisfazer as necessidades dos governos de Estados Unidos, Reino Unido, Holanda, Austrália, Canadá, Itália, Dinamarca, Noruega, Turquia e de outros compradores, como Israel. O F-35 foi concebido como projeto de três caças de quinta geração, CTOL F-35A JSF, STOVL F-35B JSF, CV F-35C JSF, de relativo baixo custo, para a Marinha, Força Aérea e Fuzileiros Navais dos Estados Unidos, pois englobar três aeronaves em um mesmo projeto mas trasos e aumento nos custos de desenvolvimento mancharam a reputação do caça, que deveria ser uma alternativa mais barata ao caríssimo F-22. 
+
+Tipo / Missão:	Caça multipropósitofurtivo, com motor turbofan de pós-combustão, monomotor monoplano
+País de origem:	 Estados Unidos
+Fabricante:  	Lockheed Martin
+Northrop Grumman
+BAE Systems
+Período de produção	2006-presente
+Quantidade produzida:	535+ (julho de 2020)[2]
+Custo unitário:     	F-35A: US$98 milhões (baixa porcentagem de produção inicial 'BPPI' e sem o motor, produção completa em 2018 pode ser no valor de US$85 milhões
+F-35B: US$104 milhões (BPPI e sem motor)
+F-35C: US$116 milhões (BPPI e sem motor)
+
+
+
+Suhhoi Su 57
+
+O Sukhoi Su-57 é a designação do protótipo T-50 de um caça russo furtivo de quinta geração, chamado de Felon em relatório da OTAN é um avião de caça multifunção bimotor de assento único, desenvolvido pela Sukhoipara a Força Aérea Russa resultado do PAK FA,  sendo projetado para rivalizar com o estadunidense F-22 Raptor em todos os aspectos. Por usar materiais compósitos, formados pela união de outros materiais, o caça é capaz de voar em modo supercruzeiro — ou seja, em velocidade supersônica, mais rápido que a velocidade do som, sem usar recursos de pós-combustão. Fora a Rússia, apenas China (J-20 e FC-31) e EUA (F-35 e F-22) produzem caças de quinta geração.
+
+Tipo / Missão:   	Caça de superioridade aérea / Avião furtivo multimissão
+País de origem: 	 Rússia
+Fabricante: 	Sukhoi
+Período de produção:  2009-presente 
 Velocidade máxima: 2.130 km/h
 Autonomia de voo: 5.500 km
 Comprimento: 20 m
@@ -83,6 +130,13 @@ O Lockheed Martin F-22 Raptor, é um caça de dominação aérea fabricado nos
  Estados Unidos, pela Lockheed Martin. Foi o primeiro caça de quinta geração a
  entrar em serviço. Sua missão principal é manter a superioridade aérea no campo
  de batalha, mas também possui capacidade secundária de ataque ao solo. 
+
+ Tipo / Missão:  	Avião caça furtivo de superioridade aérea e multirole fighter, com motores turbofan, bimotor monoplano
+País de origem:   	 Estados Unidos
+Fabricante:  	Lockheed Martin e Boeing[
+Período de produção: 	F-22: 1996–2011
+Quantidade produzida:    	195 (8 unidades para testes e 187 unidades operacionais)
+Custo unitário:  	US$ 334 milhões (2020)[2]
 Velocidade máxima: 2.414 km/h
 Velocidade de cruzeiro: 1.963 km/h
 Autonomia de voo: 3.000 km

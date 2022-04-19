@@ -55,10 +55,10 @@ section.imagem {
     background-color: rgba(0, 0, 0, 0.89);
     background-attachment: fixed;
     color: white;
-    box-shadow: inset 6px 6px 14px 0px black;
+    box-shadow: inset 4px 4px 14px 0px black;
     padding-top: 4vh;
     padding-bottom: 4vh;
-    font-size: 3.5vw;
+    font-size: 2vw;
 }
 section.imagem > p {
     background-color: rgba(0, 0, 0, 0.473);
@@ -69,12 +69,15 @@ section.imagem > p {
 section#img01 {
     background-image: url("imagens/gripen-wallpaper.jpg");
     background-position: right right;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+  
 }
 section#img02 {
     background-image: url("imagens/sukhoi-su-35s.jpg");
     background-position: right;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 
 
 }
@@ -91,6 +94,12 @@ section#img06 {
 
 }
 section#img07 {
+    background-image: url("imagens/su57-4k.jpg");
+    background-position: right right;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
 
 }
 section#img08 {

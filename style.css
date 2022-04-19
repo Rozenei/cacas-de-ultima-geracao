@@ -68,7 +68,7 @@ section.imagem > p {
 }
 section#img01 {
     background-image: url("imagens/gripen-wallpaper.jpg");
-    background-position: right center;
+    background-position: right right;
     background-size: cover;
 }
 section#img02 {

@@ -6,7 +6,7 @@
 }
 html, body {
     min-height: 100vh;
-    background-color: rgb(255, 255, 255);
+    background-color: aliceblue);
 }
 header {
     background-color: black;
@@ -34,7 +34,7 @@ header a:hover footer a:hover {
     text-decoration: underline;
  } 
 section {
-    padding: 30px;
+    padding-left: 30px;
     line-height: 2em;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-size: 2.5vw;
@@ -56,24 +56,24 @@ section.imagem {
     background-attachment: fixed;
     color: white;
     box-shadow: inset 6px 6px 14px 0px black;
-    padding-top: 4vh;
-    padding-bottom: 4vh;
-    font-size: 3.5vw;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    font-size: 2.5vw;
 }
 section.imagem > p {
     background-color: rgba(0, 0, 0, 0.473);
     display: inline-block;
-    padding: 6vh;
+    padding: 3vh;
     text-shadow: 1px 1px 0px black;
 }
 section#img01 {
-    background-image: url("imagens/gripen-wallpaper.jpg");
+    background-image: url("imagens/2gripen-wallpaper2.jpg");
     background-position: right center;
     background-size: cover;
 }
 section#img02 {
     background-image: url("imagens/sukhoi-su-35s.jpg");
-    background-position: right;
+    background-position: right right;
     background-size: cover;
 
 

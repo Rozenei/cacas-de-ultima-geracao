@@ -76,10 +76,10 @@ section#img01 {
 section#img02 {
     background-image: url("imagens/sukhoi-su-35s.jpg");
     background-position: right;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-
-
+    font-variant: small-caps;
+    
 }
 section#img03 {
 

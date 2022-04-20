@@ -55,9 +55,10 @@ section > p {
 }
 section > h1 {
     font-size: 1.4em;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-variant:small-caps;
-
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    color: black;
+    text-shadow: 2px 2px 0px rgba(255, 0, 0, 0.699);
 }
 section.normal {
     background-color: white;

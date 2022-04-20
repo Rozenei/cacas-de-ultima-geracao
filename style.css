@@ -11,7 +11,7 @@ html, body {
 header {
     background-image: url("imagens/piloto-jato-4k-wallpaper2.jpg");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center center ;
     min-width: 150px;
     padding-top: 40px;
     background-size: cover;
@@ -46,6 +46,8 @@ section {
     line-height: 2em;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
     font-size: 2.5vw;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
 }
 section > p {
     padding-bottom: 1em;
@@ -54,18 +56,13 @@ section > p {
 section.normal {
     background-color: white;
     color: rgb(0, 0, 0);
-    padding-top: 7vh;
-    padding-bottom: 7vh;
     padding: 7vh;
-    
 }
 section.imagem {
     background-color: rgba(0, 0, 0, 0.89);
     background-attachment: fixed;
     color: white;
     box-shadow: inset 6px 6px 14px 0px black;
-    padding-top: 7vh;
-    padding-bottom: 7vh;
     font-size: 4.5vw;
 
     box-shadow: inset 4px 4px 14px 0px black;

@@ -29,7 +29,7 @@ header > h1 {
 }
 header > p{
     padding-bottom: 30px;
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: aliceblue;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.993);
 }
@@ -45,7 +45,7 @@ section {
     padding-left: 30px;
     line-height: 2em;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
-    font-size: 2.5vw;
+    font-size: 1.5em;
     padding-top: 10vh;
     padding-bottom: 10vh;
 }
@@ -63,12 +63,9 @@ section.imagem {
     background-attachment: fixed;
     color: white;
     box-shadow: inset 6px 6px 14px 0px black;
-    font-size: 4.5vw;
-
     box-shadow: inset 4px 4px 14px 0px black;
     padding-top: 4vh;
     padding-bottom: 4vh;
-    font-size: 2vw;
 }
 section.imagem > p {
     background-color: rgba(0, 0, 0, 0.473);
@@ -78,21 +75,21 @@ section.imagem > p {
 }
 section#img01 {
     background-image: url("imagens/gripen-wallpaper.jpg");
-    background-position: center right;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     font-variant: small-caps;
 }
 section#img02 {
     background-image: url("imagens/sukhoi-su-35-wallpaper.jpg");
-    background-position: right right;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     font-variant: small-caps;
     
 }
 section#img03 {background-image: url("imagens/eurofighter-typhoon2.jpg");
-    background-position: right;
+    background-position: cent;
     background-repeat: no-repeat;
     background-size: cover;
     font-variant: small-caps;
